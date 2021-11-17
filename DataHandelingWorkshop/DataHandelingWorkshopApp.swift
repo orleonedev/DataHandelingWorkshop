@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct DataHandelingWorkshopApp: App {
+    @StateObject var lightBulb = Lightbulb(color: .yellow, intensity: 1)
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnOffView().environmentObject(lightBulb)
         }
     }
 }
