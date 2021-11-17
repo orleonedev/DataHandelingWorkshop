@@ -11,7 +11,6 @@
 		510D15272744F66A00AC080E /* OnOffView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510D15262744F66A00AC080E /* OnOffView.swift */; };
 		510D15292744F66B00AC080E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 510D15282744F66B00AC080E /* Assets.xcassets */; };
 		510D152C2744F66B00AC080E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 510D152B2744F66B00AC080E /* Preview Assets.xcassets */; };
-		510D15332744FB2700AC080E /* DimmerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510D15322744FB2700AC080E /* DimmerView.swift */; };
 		510D15352744FFD800AC080E /* Lightbulb.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510D15342744FFD800AC080E /* Lightbulb.swift */; };
 		510D15552745112800AC080E /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510D15542745112800AC080E /* ColorView.swift */; };
 		510D15572745161900AC080E /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 510D15562745161900AC080E /* ModalView.swift */; };
@@ -23,7 +22,6 @@
 		510D15262744F66A00AC080E /* OnOffView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnOffView.swift; sourceTree = "<group>"; };
 		510D15282744F66B00AC080E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		510D152B2744F66B00AC080E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		510D15322744FB2700AC080E /* DimmerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DimmerView.swift; sourceTree = "<group>"; };
 		510D15342744FFD800AC080E /* Lightbulb.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lightbulb.swift; sourceTree = "<group>"; };
 		510D15542745112800AC080E /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 		510D15562745161900AC080E /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 				510D15262744F66A00AC080E /* OnOffView.swift */,
 				510D15282744F66B00AC080E /* Assets.xcassets */,
 				510D152A2744F66B00AC080E /* Preview Content */,
-				510D15322744FB2700AC080E /* DimmerView.swift */,
 				510D15342744FFD800AC080E /* Lightbulb.swift */,
 				510D15542745112800AC080E /* ColorView.swift */,
 				510D15562745161900AC080E /* ModalView.swift */,
@@ -150,7 +147,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				510D15572745161900AC080E /* ModalView.swift in Sources */,
-				510D15332744FB2700AC080E /* DimmerView.swift in Sources */,
 				510D15272744F66A00AC080E /* OnOffView.swift in Sources */,
 				510D15252744F66A00AC080E /* DataHandelingWorkshopApp.swift in Sources */,
 				510D15352744FFD800AC080E /* Lightbulb.swift in Sources */,
